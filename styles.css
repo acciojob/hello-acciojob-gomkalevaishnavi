@@ -4,9 +4,10 @@
 	background : black;
 	width:150px;
 	height:150px;
+	margin-left: 32px;
+	padding:10px;
 }
 #job{
 	color:white;
-	margin-left: 32px;
-	padding:10px;
+	
 }
